@@ -1,0 +1,15 @@
+{
+  "name": "processing_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.2",
+    "pg-query-stream": "^4.5.2"
+  }
+}
